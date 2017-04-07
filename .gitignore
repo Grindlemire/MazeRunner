@@ -23,7 +23,6 @@ _testmain.go
 *.test
 *.prof
 
-
 # custom
 node_modules/
 rest/build/

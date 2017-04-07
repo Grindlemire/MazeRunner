@@ -1,2 +1,3 @@
-# WebpackTemplate
-Template of a Go web server using Webpack
+
+# MazeRunner
+Maze runner built on D3 supported by a Golang Webserver
